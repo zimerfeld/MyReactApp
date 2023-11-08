@@ -1,0 +1,33 @@
+
+https://www.youtube.com/watch?v=cd3P3yXyx30
+
+parei 03:30:00
+
+------------------------------------
+
+npx create-react-app my-app
+
+Always add Key to components
+
+
+------------------------------------
+
+handleChange(event) {
+	setValue(event.target.value);
+}
+
+
+------------------------------------
+	
+<form onSubmit={handleSubmit}>
+...
+</form>
+
+handleSubmit(event) {
+	validate(value);
+	event.preventDefault();
+}
+
+
+------------------------------------
+

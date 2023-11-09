@@ -1,7 +1,7 @@
 
 https://www.youtube.com/watch?v=cd3P3yXyx30
 
-parei 03:30:00
+parei 03:46:00
 
 ------------------------------------
 
@@ -31,3 +31,5 @@ handleSubmit(event) {
 
 ------------------------------------
 
+
+<Component1 />

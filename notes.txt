@@ -1,14 +1,15 @@
 
 https://www.youtube.com/watch?v=cd3P3yXyx30
 
-parei 03:46:00
+PS C:\Renato\repos\MyReactApp> npx create-react-app my-app
 
-------------------------------------
+cd my-app
 
-npx create-react-app my-app
+npm start
+
+npm install --save typescript
 
 Always add Key to components
-
 
 ------------------------------------
 
@@ -31,5 +32,16 @@ handleSubmit(event) {
 
 ------------------------------------
 
-
 <Component1 />
+
+------------------------------------
+
+PS C:\Renato\repos\MyReactApp> npx create-react-app bootstrap
+
+cd bootstrap
+
+npm i bootstrap@5.2.3
+
+replace index.css with:
+import 'bootstrap/dist/css/bootstrap.css'
+
